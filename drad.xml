@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="3.4.1">
+    <name>Deni's RAD Library</name>
+    <libraryname>drad</libraryname>
+    <author>Florian Denizot</author>
+    <creationDate>June 2015</creationDate>
+    <copyright>Copyright (C) 2015 Florian Denizot</copyright>
+    <license>TBD</license>
+    <authorEmail>florian.denizot@gmail.com</authorEmail>
+    <version>0.1</version>
+    <description>Deni's rapid application development library. </description>
+    <files>
+        <folder>admin</folder>
+        <folder>utilities</folder>
+    </files>
+</extension>
